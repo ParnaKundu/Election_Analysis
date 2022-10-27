@@ -2,7 +2,7 @@
 Analysis of Election Results using Python
 
 ## Overview of Election Audit
-This project is to assist a Colorado Board of Elections employee, Tom, to audit an election results for the U.S. congressional precinct of Colorado. The audit is to report the total number of votes cast, total number of votes for each candidate, the percentage of vote and the winner of the election based on the popular vote. Once the votes are counted and tallied, a vote count report is generated to certify the U.S.Congressional race.
+This project is to assist a Colorado Board of Elections employee, Tom, audit an election results for the U.S. congressional precinct of Colorado. The audit is to report the total number of votes cast, total number of votes for each candidate, the percentage of vote and the winner of the election based on the popular vote. Once the votes are counted and tallied, a vote count report is generated to certify the U.S.Congressional race.
 
 ### Purpose
 The pupose is to automate the counting of votes using Python and generate a vote count report.
@@ -39,10 +39,12 @@ The pupose is to automate the counting of votes using Python and generate a vote
 
     **Diana DeGette** won the election with **272,892** votes (73.8%).
 
-***Note*** :- [Election_analysis]() provides a comprehensive report of the election audit.
+***Note*** :- [Election_analysis](https://github.com/ParnaKundu/Election_Analysis/blob/main/analysis/election_analysis.txt) provides a comprehensive report of the election audit.
 
 ## Election Audit Summary
 
 Now that the counting of votes can be automated using Python, this code can be used to audit other congressional districts, senatorial districts or local elections. 
+
+In addition to the results created, we could have a breakdown of each candidate's vote count within a particular county. The code would need to be modified so that for each county, the votes of individual candidates are rolled up and saved before moving on to the next county. This would give an insight to the popularity of a candidate at a county level.
 
 If the input data could include the voting method (mail-in ballot, punch card or DRE), the code could be modified to report a breakdown of votes based on the voting method. This could shed light on the popular voting method. 
