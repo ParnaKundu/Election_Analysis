@@ -5,7 +5,7 @@ Analysis of Election Results using Python
 This project is to assist a Colorado Board of Elections employee, Tom, audit an election results for the U.S. congressional precinct of Colorado. The audit is to report the total number of votes cast, total number of votes for each candidate, the percentage of vote and the winner of the election based on the popular vote. Once the votes are counted and tallied, a vote count report is generated to certify the U.S.Congressional race.
 
 ### Purpose
-The pupose is to automate the counting of votes using Python and generate a vote count report.
+The purpose is to automate the counting of votes using Python and generate a vote count report.
 
 ## Election-Audit Results
 
