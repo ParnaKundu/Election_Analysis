@@ -41,7 +41,7 @@ The purpose is to automate the counting of votes using Python and generate a vot
 
 ***Note*** :- Here is a comprehensive report of the election audit.
 
-![Election_analysis](analysis/election_analysis.txt)
+![Election_analysis](/analysis/election_analysis.txt)
 
 ## Election Audit Summary
 
