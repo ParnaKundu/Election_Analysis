@@ -39,9 +39,9 @@ The purpose is to automate the counting of votes using Python and generate a vot
 
     **Diana DeGette** won the election with **272,892** votes (73.8%).
 
-***Note*** :- Here is a comprehensive report of the election audit.
+***Note*** :- [Election_analysis](https://github.com/ParnaKundu/Election_Analysis/blob/main/analysis/election_analysis.txt) is the comprehensive report of the election audit.
 
-![Election_analysis](/analysis/election_analysis.txt)
+
 
 ## Election Audit Summary
 
